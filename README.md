@@ -1,8 +1,8 @@
-<p align="center">Hi, I'm Gok... Felipe Rocha🖖!</p>
+#<p align="center">Hi, I'm Gok... Felipe Rocha🖖!</p>
 
 ##
 
-<p align="center">I'm a software engineering academic at UFMS, I'm open to new opportunities!!!</p>
+##<p align="center">I'm a software engineering academic at UFMS, I'm open to new opportunities!!!</p>
 
 ##
 
